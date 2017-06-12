@@ -34,4 +34,4 @@ so I recommend you don't use it in a critical environment.
 Two files you may be interested in:
 
 * The source, [tiny-go-server.go](src/github.com/CarlSmotricz/tiny-go-server/tiny_go_server.go)
-* The binary, [tiny-go-server](bin/tiny_go_server), for Linux X86-64 only.
+* The binary, [tiny-go-server](bin/tiny-go-server), for Linux X86-64 only.
